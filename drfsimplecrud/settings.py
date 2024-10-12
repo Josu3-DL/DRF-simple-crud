@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-_mg0+%f^w7gl89w7!-=gf8hczc!6_4e#i%@+t*y3^gf1oq5g^h
 
 DEBUG = 'RENDER' not in os.environ
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
