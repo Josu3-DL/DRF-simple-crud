@@ -6,6 +6,8 @@
 
 Esta API proporciona un conjunto de endpoints para la gestión de proyectos, permitiendo a los usuarios realizar operaciones CRUD en una base de datos de proyectos. La API está construida utilizando Django y Django Rest Framework, lo que la hace flexible y fácil de extender.
 
+![Preview](https://github.com/Josu3-DL/DRF-simple-crud/issues/1#issue-2583401564)
+
 ## Endpoints
 
 La API ofrece los siguientes endpoints para la gestión de proyectos:
